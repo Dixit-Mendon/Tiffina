@@ -1,0 +1,13 @@
+.left-panel {
+  flex-basis: 40%;
+}
+
+.main-container {
+  flex-basis: 60%;
+}
+
+@media (min-width: 768px) {
+  .outer-container {
+    display: flex;
+  }
+}

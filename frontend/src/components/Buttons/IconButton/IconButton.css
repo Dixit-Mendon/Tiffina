@@ -1,0 +1,41 @@
+.icon {
+  width: 25px;
+  height: 25px;
+  margin-bottom: 5px;
+}
+
+.iconButton {
+  border: 1px solid #ffb347;
+  background-color: #fff;
+  border-radius: 5px;
+  font-size: 1.4rem;
+  margin: 5px;
+  text-align: left;
+  padding-left: 60px;
+  width: 60%;
+}
+
+.iconButton:active {
+  background-color: #f89c2b;
+}
+
+.iconButton:hover {
+  box-shadow: 5px 5px 5px #ffcf75;
+}
+
+.iconButton-container {
+  display: block;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .iconButton {
+    font-size: 1.8rem;
+  }
+
+  .icon {
+    width: 35px;
+    height: 35px;
+    margin-bottom: 5px;
+  }
+}

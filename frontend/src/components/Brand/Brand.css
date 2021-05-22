@@ -1,0 +1,26 @@
+.brand-container {
+  display: flex;
+  padding: 0.5rem 1rem 0rem 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.brand-name {
+  flex-basis: 75%;
+  font-size: 3rem;
+  padding: 2px 0px 2px 40px;
+  margin: 0px;
+}
+
+.brand-logo {
+  width: 60px;
+  height: 60px;
+}
+
+@media (min-width: 768px) {
+  .brand-container {
+    padding: 1rem;
+  }
+  .brand-container {
+    margin-bottom: 12px;
+  }
+}

@@ -1,0 +1,29 @@
+.orange-button {
+  background-color: #f89c2b;
+  border-radius: 10px;
+  width: 60%;
+  margin: 10px 10px 10px 0;
+  border: none;
+  padding: 7px;
+}
+
+.orange-button:hover {
+  background-color: #ed872d;
+  box-shadow: 5px 5px 5px #707070;
+}
+
+.orange-button:active {
+  background-color: #f89c2b;
+}
+
+.mainText {
+  font-size: 1.4rem;
+  color: #fff;
+  text-shadow: 1px 1px black;
+  margin: 0px;
+}
+
+.subText {
+  margin: 0px;
+  font-size: 0.7rem;
+}

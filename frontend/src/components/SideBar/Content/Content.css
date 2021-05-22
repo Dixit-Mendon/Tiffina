@@ -1,0 +1,19 @@
+.content-container {
+  margin: 5% 5%;
+}
+
+.content-heading {
+  text-align: center;
+  font-size: 350%;
+  margin-bottom: 10px;
+  font-style: italic;
+  font-weight: 800;
+}
+
+.content-subheading {
+  text-align: center;
+  font-size: 180%;
+  margin-top: 10px;
+  font-style: italic;
+  font-weight: 700;
+}
